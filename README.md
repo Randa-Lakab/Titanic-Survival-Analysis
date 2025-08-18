@@ -21,4 +21,4 @@ From [Data Science Dojo - Titanic CSV](https://github.com/datasciencedojo/datase
 [Open Titanic Analysis on GitHub](titanic_analysis.ipynb)
 
 
- Created by Randa Lakab – August 2025
+ Created by Randa Lakab – August 2025 .
