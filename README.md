@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Analysis
+#  Titanic Survival Analysis
 
 This notebook explores the Titanic dataset to understand survival patterns using Python.
 
@@ -19,6 +19,13 @@ From [Data Science Dojo - Titanic CSV](https://github.com/datasciencedojo/datase
 
 ##  View notebook
 [Open Titanic Analysis on GitHub](titanic_analysis.ipynb)
+
+##  Insights
+
+- Women and children had higher survival rates compared to men.  
+- Passengers in 1st class were more likely to survive than those in 3rd class.  
+- Missing age values can impact predictions if not handled properly.  
+
 
 
  Created by Randa Lakab – August 2025 .
