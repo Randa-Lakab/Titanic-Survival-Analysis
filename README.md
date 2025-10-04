@@ -28,4 +28,4 @@ From [Data Science Dojo - Titanic CSV](https://github.com/datasciencedojo/datase
 
 
 
- Created by Randa Lakab – August 
+ Created by Randa Lakab 
