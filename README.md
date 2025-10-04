@@ -26,6 +26,3 @@ From [Data Science Dojo - Titanic CSV](https://github.com/datasciencedojo/datase
 - Passengers in 1st class were more likely to survive than those in 3rd class.  
 - Missing age values can impact predictions if not handled properly.  
 
-
-
- Created by Randa Lakab 
